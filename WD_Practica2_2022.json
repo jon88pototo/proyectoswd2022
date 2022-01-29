@@ -99,12 +99,12 @@
     },
     {
         "id": 12,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Jon Gómez y Sergi Ortiz",
+        "titulo": "EGO Fan Creators",
+        "srcimg": "https://github.com/jon88pototo/ego_fan_creators/blob/main/img/EgoFanCreators2.1071c765.png?raw=true", 
+        "alt": "Logo de EGO Fan Creators",
+        "texto": "Web d'una associació de fans de Lego amb les seves creacions i projectes.",
+        "url": "https://jon88pototo.github.io/ego_fan_creators/"
     },
     {
         "id": 13,
